@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.container {
+  background-image: linear-gradient(to right, #fa7257, #fc63a7);
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.show-hide-con {
+  display: flex;
+}
+.button {
+  background-color: white;
+  color: pink;
+  padding: 10px;
+  margin: 10px;
+}
+.name-con {
+  text-align: center;
+}
